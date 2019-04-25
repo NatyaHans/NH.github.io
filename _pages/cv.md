@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Biotechnology, Ambala College of Engineering, 2010 
+* M.Tech. in  Computational and Systems Biology, Jawaharlal Nehru University, 2013
+* Ph.D in Genetics , University of Florida, 2019 (expected)
+
 
 Work experience
 ======
@@ -36,6 +37,25 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Fellowships
+======
+
+* Travel Grant ($300) from National Science Policy Network, 2018
+
+* Summer Fellowship ($4000) from Biodiversity Institute at UF, 2018
+
+* Travel Grant ($600) for Macroevolution short course at Oregon State University, Corvallis, 2017
+
+* Travel Stipend ($500) from SSE to attend Evolution conference in Portland, 2017
+
+* Teaching Assistantship from Department of Biology, UF,2014 -2019
+
+* Genetics and Genomics Graduate Student Research Fellowship, UF, 2013- 2014
+
+* UGC research fellowship for Master’s/ Doctoral Student, 2011- 2013
+
+* JNU Research Student Fellowship, 2011- 2013
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +76,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
