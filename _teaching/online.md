@@ -1,26 +1,26 @@
 ---
-title: "Online Classes"
+title: "Online Teaching"
 collection: teaching
 type: "Undergraduate UF Online class"
 permalink: /teaching/online
 venue: "University of Florida, Department of Biology"
-date: Spring 2017, Fall 2018, Summer 2018  
+date: 2018-01-01  
 location: "Gainesville, Florida"
 ---
 
-List of online classes I have taught at UF 
+List of online classes I have taught at UF with description: 
 
-Lab in Biological Science for Non Majors
+Lab in Biological Science for Non Majors(BSC2005L) 
 ======
-Instructor –  (Online)    		 	   Summer 2018
+Instructor – Summer 2018
 Lab coordinator: Dr. Kent Vliet (UF Gainesville) 
 
-Biological Science Online	
+Biological Science Online (BSC2005) 
 ======
- Teaching Assistant –  Fall 2018
+Teaching Assistant –  Fall 2018
 Lead instructor: Dr. Nicole Gerlach (UF Gainesville)
 
-Critical Analysis of Biological Research
+Critical Analysis of Biological Research(BSC4936)
 ======
 Teaching Assistant– Spring 2017                  
 Lead instructors: Dr. Norman Douglas, Dr. Teresa Mutahi (UF Gainesville)
