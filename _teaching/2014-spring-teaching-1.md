@@ -1,10 +1,10 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Lab"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University of Florida, Department of Biologu"
+date: Fall 2014, Spring 2015, Summer 2017   
 location: "Gainesville, Florida"
 ---
 
