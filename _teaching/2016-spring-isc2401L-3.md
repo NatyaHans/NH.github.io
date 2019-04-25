@@ -2,7 +2,7 @@
 title: "Cross-Disciplinary Laboratory 2"
 collection: teaching
 type: "HHMI funded undergrad lab"
-permalink: /teaching/2016-isc2401L-3
+permalink: /teaching/2016-spring-isc2401L-3
 venue: "University of Florida, Department of Biology"
 date: Spring 2016 and Fall 2017
 location: "Gainesville, Florida"
