@@ -1,14 +1,14 @@
 ---
 title: "Genetics"
 collection: teaching
-type: "Undergraduate UF Online class"
+type: "Undergraduate Genetics course"
 permalink: /teaching/genetics
 venue: "University of Florida, Department of Biology"
 date: Spring 2019, Spring 2018
 location: "Gainesville, Florida"
 ---
 
-I taught the genetics course for two semesters. 
+I taught the genetics course for two semesters. PCB3063 
 
 Spring 2019
 ======
