@@ -1,5 +1,5 @@
 ---
-title: "Online Class"
+title: "Online Classes"
 collection: teaching
 type: "Undergraduate UF Online class"
 permalink: /teaching/online
@@ -8,6 +8,7 @@ date: Spring 2017, Fall 2018, Summer 2018
 location: "Gainesville, Florida"
 ---
 
+List of online classes I have taught at UF 
 
 Lab in Biological Science for Non Majors
 ======
