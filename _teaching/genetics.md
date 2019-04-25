@@ -19,4 +19,7 @@ Spring 2018
 ======
 Teaching Assistant – Genetics
 Lead instructor: Dr. Michelle Yoo (UF Gainesville)
+-Gave guest lectures on:
+1. Genomics, Proteomics and Biotechnology.
+2. Evolutionary Biology and Quantitative Genetics
 
