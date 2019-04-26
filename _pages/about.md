@@ -14,15 +14,4 @@ This is the research page for Natya Hans. I am a PhD candidate in Biology Depart
 We are a computational lab. [Link to Lab Website](doesnotexistyet.com)
 
 
-Research Projects:
-
-Identifiability of Diversification models 
-======
-
-Big Bird Tree of Life
-======
-
-Links to things
-------
-
 
