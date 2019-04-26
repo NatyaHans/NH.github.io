@@ -1,11 +1,8 @@
 ---
-title: "Travel award"
-collection: awards
-type: "Travel grant"
-permalink: /awards
+layout: archive
+permalink: /awards/
 
 ---
-
 
 GATE (Graduate Aptitude Test in Engineering) 
 ======
