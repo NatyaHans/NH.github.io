@@ -97,6 +97,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach and Service
 ======
-* 
+  <ul>{% for post in site.outreach %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
