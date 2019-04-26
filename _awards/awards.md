@@ -2,7 +2,7 @@
 title: "Travel award"
 collection: awards
 type: "Travel grant"
-permalink: /awards/awards.md
+permalink: /awards/awards
 ---
 
 
