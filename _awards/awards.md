@@ -1,6 +1,6 @@
 ---
 title: "Travel award"
-collection: award
+collection: awards
 type: "Travel grant"
 permalink: /awards/awards.md
 ---
