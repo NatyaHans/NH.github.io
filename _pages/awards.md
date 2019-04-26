@@ -5,6 +5,8 @@ title: "Awards"
 author_profile: true
 
 ---
+{% include base_path %}
+
 
 GATE (Graduate Aptitude Test in Engineering) 
 ======
