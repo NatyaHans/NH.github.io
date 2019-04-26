@@ -1,9 +1,10 @@
 ---
 layout: archive
 permalink: /awards/
+title: "Awards "
+author_profile: true
 
 ---
-
 GATE (Graduate Aptitude Test in Engineering) 
 ======
 All India rank 321 with 98.04 percentile	     2011
