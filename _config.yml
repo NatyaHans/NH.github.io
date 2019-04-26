@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Natya Hans"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Natya Hans"
 description              : &description "PhD candidate at University of Florida"
