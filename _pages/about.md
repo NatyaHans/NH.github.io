@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi!
 
-This is the research page for Natya Hans. I am a PhD candidate in Biology Department at University of Florida. I am graduate student supervised by [Dr. John Gordon Burleigh](https://biology.ufl.edu/gburleigh/). My broad research interests are phylogenetics, genomics and macroevolutionary modelling. 
+I am a PhD candidate in Biology Department at University of Florida. My work is supervised by [Dr. John Gordon Burleigh](https://biology.ufl.edu/gburleigh/). My broad research interests are phylogenetics, genomics and macroevolutionary modelling. 
 
 
 
