@@ -17,5 +17,5 @@ author_profile: true
 
 **CSIR (Council for Scientific and Industrial Research)**
 
-Qualified CSIR-UGC-JRF NET in Life Sciences with All India Rank 266 		
+* Qualified CSIR-UGC-JRF NET in Life Sciences with All India Rank 266 		
 
