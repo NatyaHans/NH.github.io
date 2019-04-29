@@ -79,13 +79,6 @@ Posters
 * Hans, N; Bharti D., and Lynn A.M. Quantitative Structure Activity Relationships (QSAR) for targets against Mycobacterium tuberculosis using data-mining techniques. International Conference on Biomolecular forms and functions. Bangalore, India. January, 2013. 
 * Hans, N; Mittal P, and GL Kumari.  Production of Monoclonal antibodies against α- and β- subunits of hCG. National Conference on Medical Biotechnology, Rohtak, India. Rohtak, India.  April, 2010.
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -100,6 +93,7 @@ Teaching
   
 Outreach and Service
 ======
-  <ul>{% for post in site.outreach %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Served as the IT rep for Biology Graduate Student Association 2017-2018
+* Served as the Graduate Student Council Student Rep for Genetics Institute 2013-2014
+* Organized DNA day (April 2016) at University of Florida Genetics Institute
+* Volunteered for 1.5 years for Reading Pals [For more information] (http://www.unitedwayncfl.org/readingpals-0)
