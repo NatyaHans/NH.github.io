@@ -106,7 +106,7 @@ Other Sympososia and Training:
 
 Professional Membership
 ======
-Genetics Society of America
-Society for the Study of Evolution
-Society of Systematic Biologists
+* Genetics Society of America
+* Society for the Study of Evolution
+* Society of Systematic Biologists
 
