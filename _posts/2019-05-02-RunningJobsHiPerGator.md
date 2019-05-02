@@ -1,7 +1,7 @@
 ---
 title: ‘Running jobs on HiPerGator'
 date: 2019-05-02
-permalink: /posts/2019/05/blog-post-4/
+permalink: /posts/2019/05/RunningJobsHiPerGator/
 tags:
   - hipergator
   - bash
