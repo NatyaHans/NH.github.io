@@ -39,6 +39,8 @@ After you open, edit and close the file make sure you source the .bashrc
 
 
 # My favorite Aliases
+Alias command in linux can be used to create shortcuts for commands you mostly use. Make sure that you start with alias command and then add a space between the word/combination you would like to use as command. Use a "=" sign and double quotes of the command you want to set up as alias.
+Make sure there is no space between the your substitute word,= sign and quotes. 
 
 
 This is a great way for finding out what is taking so much space on your drives!
