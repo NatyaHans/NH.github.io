@@ -1,7 +1,7 @@
 ---
 title: 'Transferring files to the cluster (HiPerGator)'
 date: 2019-04-30
-permalink: /posts/FileTransferHiPerGator
+permalink: /posts/2019/04/FileTransferHiPerGator
 tags:
   - hipergator
   - bash
