@@ -1,7 +1,7 @@
 ---
 title: 'Using the cluster (HiPerGator)'
 date: 2019-04-29
-permalink: /posts/UsingHiPerGator
+permalink: /posts/2019/04/UsingHiPerGator
 tags:
   - hipergator
   - bash
