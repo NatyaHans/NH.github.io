@@ -11,28 +11,53 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<!-- MAIN (Center website) -->
+<div class="main">
 
-<!-- The grid: four columns -->
+<h1>MYLOGO.COM</h1>
+<hr>
+
+<h2>PORTFOLIO</h2>
+<p>Resize the browser window to see the responsive effect.</p>
+
+<!-- Portfolio Gallery Grid -->
 <div class="row">
   <div class="column">
-    <img src="http://NatyaHans.github.io/files/Italy2.jpg" width="200" height="300" alt="Italian Trip" onclick="myFunction(this);">
+    <div class="content">
+      <img src="http://NatyaHans.github.io/files/Italy2.jpg" alt="Italy" style="width:100%">
+      <h3>My Work</h3>
+      <p>Lost in Venice </p>
+    </div>
   </div>
   <div class="column">
-    <img src="http://NatyaHans.github.io/files/IMG-20170531-WA0019.jpg" width="200" height="300" alt="With Windy" onclick="myFunction(this);">
+    <div class="content">
+      <img src="http://NatyaHans.github.io/files/IMG-20170531-WA0019.jpg" alt="Windy" style="width:100%">
+      <h3>My Work</h3>
+      <p>With my advisor's dog </p>
+    </div>
   </div>
   <div class="column">
-    <img src="http://NatyaHans.github.io/files/Rope4.jpeg" width="200" height="300" alt="Rope Climbing at Lake Wauburg" onclick="myFunction(this);">
+    <div class="content">
+      <img src="http://NatyaHans.github.io/files/Rope4.jpeg" alt="Rope Climbing" style="width:100%">
+      <h3>My Work</h3>
+      <p>Rope Climbing at Lake Wauburg</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="mountains.jpg" alt="Mountains" style="width:100%">
+      <h3>My Work</h3>
+      <p>Lorem ipsum..</p>
+    </div>
   </div>
 </div>
 
-<!-- The expanding image container -->
-<div class="container">
-  <!-- Close the image -->
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-
-  <!-- Expanded image -->
-  <img id="expandedImg" style="width:50%">
-
-  <!-- Image text -->
-  <div id="imgtext"></div>
+<div class="content">
+  <img src="bear.jpg" alt="Bear" style="width:100%">
+  <h3>Some Other Work</h3>
+  <p>Lorem ipsum..</p>
 </div>
+
+<!-- END MAIN -->
+</div>
+
