@@ -97,3 +97,16 @@ Outreach and Service
 * Served as the Graduate Student Council Student Rep for Genetics Institute 2013-2014
 * Organized DNA day (April 2016) at University of Florida Genetics Institute
 * Volunteered for two years for Reading Pals [For more information](http://www.unitedwayncfl.org/readingpals-0)
+* Organized Synthetic Biology Symposium at School of Computational and Integrative Sciences, JNU 2012. Co-organized with Rajan Shrivastava.
+
+Other Sympososia and Training:
+======
+* Attended the  Second Annual Science Policy Symposium by SEPA at Rockefeller University, NYC November 10th-11th 2018. 
+* Attended the Data and Software Carpentry Instructor training to become a certified instructor at University of Florida from March 3-4, 2018.
+
+Professional Membership
+======
+Genetics Society of America
+Society for the Study of Evolution
+Society of Systematic Biologists
+
