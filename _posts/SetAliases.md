@@ -1,7 +1,7 @@
 ---
 title: ‘Setting up Aliases'
 date: 2019-05-03
-permalink: /posts/2019/05/blog-post-5/
+permalink: /posts/SetAliases/
 tags:
   - hipergator
   - bash
