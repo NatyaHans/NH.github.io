@@ -1,7 +1,7 @@
 ---
 title: ‘Modules on HiPerGator'
 date: 2019-05-01
-permalink: /posts/2019/05/blog-post-3/
+permalink: /posts/2019/05/ModulesHiPerGator/
 tags:
   - hipergator
   - bash
