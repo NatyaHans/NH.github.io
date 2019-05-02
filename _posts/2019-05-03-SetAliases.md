@@ -160,9 +160,9 @@ should give you a compressed folder `samplefoldertobecompressed.tar.gz`
         cd $d
         }
         
-**USAGE:**
+**USAGE:** to go up 4 directories 
 
-     up 4 # to go up 4 directories 
+     up 4 
 
 
 # To find empty files 
