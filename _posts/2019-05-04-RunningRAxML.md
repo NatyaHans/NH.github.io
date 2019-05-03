@@ -1,7 +1,7 @@
 ---
 title: ‘Phylogenetic Analysis using RAxML on HiPerGator'
-date: 2019-05-03
-permalink: /posts/2019/05/SetAliases/
+date: 2019-05-04
+permalink: /posts/2019/05/RunningRAxML/
 tags:
   - hipergator
   - bash
@@ -9,5 +9,5 @@ tags:
   - linux
 --- 
 
-
+Coming soon....
  
