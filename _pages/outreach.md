@@ -7,8 +7,10 @@ author_profile: true
 ---
 {% include base_path %}
 
-* Will be serving as Public Relations & Fundraising Rep for Biology Graduate Student Association, from Fall 2019 onwards
-* Served as the IT rep for Biology Graduate Student Association , managing the website for the year 2018-2019
+* Serving as Treasurer for Society for Advancement of Chicanos/Hispanics and Native Americans in Science Florida Chapter,2019-2020
+* Serving as content developer for biology department newsletter symBIOsis, 2019-2020
+* Serving Public Relations & Fundraising Rep for Biology Graduate Student Association,2019-2020
+* Served as the IT rep for Biology Graduate Student Association , managing the website, 2018-2019
 * Science fair judging for local schools for 
     - 12/13/18 - Westwood Middle School (Gainesville)
     - 11/16/17 - Bishop Middle School (Gainesville) 
