@@ -7,7 +7,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-* Serving as Treasurer for Society for Advancement of Chicanos/Hispanics and Native Americans in Science Florida Chapter,2019-2020
+* Serving as Treasurer for SACNAS (Society for Advancement of Chicanos/Hispanics and Native Americans in Science) Florida Chapter,2019-2020
 * Serving as content developer for biology department newsletter symBIOsis, 2019-2020
 * Serving as Public Relations & Fundraising Rep for Biology Graduate Student Association,2019-2020
 * Served as the IT rep for Biology Graduate Student Association , managing the website, 2018-2019
