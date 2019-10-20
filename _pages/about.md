@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi!
 
-I am a PhD candidate in Biology Department at University of Florida. My work is supervised by [Dr. John Gordon Burleigh](https://biology.ufl.edu/gburleigh/). I am a wet lab scientist turned computational biologist to cater to my broader research interests in biology, I am interested in exploring questions in phylogenetics, genomics and macroevolution. 
+I am a PhD candidate in Biology Department at University of Florida. My work is supervised by [Dr. John Gordon Burleigh](https://biology.ufl.edu/gburleigh/). I am a wet lab scientist turned computational biologist to cater to my broader research interests in biology. I am interested in exploring questions in phylogenetics, genomics and macroevolution. 
 
 
 **Biodiversity and Macroevolution:** My research involves developing statistical and computational approaches to understand the generation and maintenance of biological diversity, and studying evolutionary patterns of diversification at both the species and genomic level. 
