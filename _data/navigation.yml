@@ -22,5 +22,5 @@ main:
   - title: "Tutorials"
     url: /year-archive/
     
-  - title: "Gallery"
-    url: /gallery/
+  #- title: "Gallery"
+  #  url: /gallery/
