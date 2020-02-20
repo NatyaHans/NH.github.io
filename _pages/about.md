@@ -15,10 +15,12 @@ My research involves developing statistical approaches and computational methods
 
 
 
-**Biodiversity and macroevolution**
-Details coming soon
+
 **Using data cloning as a technique for evaluating identifiability in diversification model**
+
 Details coming soon
+
+
 **Genomic Diversity**
 Details coming soon
 
