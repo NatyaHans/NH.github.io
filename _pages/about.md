@@ -14,13 +14,18 @@ I am a PhD candidate in Biology Department at University of Florida. I am a comp
 My research involves developing statistical approaches and computational methods to understand the generation and maintenance of biological diversity, and studying evolutionary patterns of diversification at both the species and genomic level. 
 
 
-
-
-**Using data cloning as a technique for evaluating identifiability in diversification model**
+***Biodiversity and Macroevolution***
 
 Details coming soon
 
 
-**Genomic Diversity**
+
+***Using data cloning as a technique for evaluating identifiability in diversification model***
+
+Details coming soon
+
+
+***Genomic Diversity***
+
 Details coming soon
 
