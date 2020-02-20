@@ -9,10 +9,16 @@ redirect_from:
 ---
 Hi!
 
-I am a PhD candidate in Biology Department at University of Florida. My work is supervised by [Dr. John Gordon Burleigh](https://biology.ufl.edu/gburleigh/). I am a wet lab scientist turned computational biologist to cater to my broader research interests in biology. I am interested in exploring questions in phylogenetics, genomics and macroevolution. 
+I am a PhD candidate in Biology Department at University of Florida. I am a computational evolutionary biologist in [Dr. John Gordon Burleigh](https://biology.ufl.edu/gburleigh/)'s lab. 
+
+My research involves developing statistical approaches and computational methods to understand the generation and maintenance of biological diversity, and studying evolutionary patterns of diversification at both the species and genomic level. 
 
 
-**Biodiversity and Macroevolution:** My research involves developing statistical and computational approaches to understand the generation and maintenance of biological diversity, and studying evolutionary patterns of diversification at both the species and genomic level. 
 
+**Biodiversity and macroevolution**
+Details coming soon
+**Using data cloning as a technique for evaluating identifiability in diversification model**
+Details coming soon
+**Genomic Diversity**
+Details coming soon
 
-**Automating the Avian tree of life:** I have been working on building easy to use perl pipelines for automating the bird tree of life. 
