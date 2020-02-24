@@ -11,7 +11,7 @@ Hi!
 
 I am a PhD candidate in Biology Department at University of Florida. I am a computational evolutionary biologist in [Dr. John Gordon Burleigh](https://biology.ufl.edu/gburleigh/)'s lab.
 
-<img src="http://NatyaHans.github.io/images/lab.jpg" alt="Lab pic" style="width:40%">
+<img src="http://NatyaHans.github.io/images/Monopoly.jpg" alt="Lab pic" style="width:40%">
 
 My research involves developing statistical approaches and computational methods to understand the generation and maintenance of biological diversity, and studying evolutionary patterns of diversification at both the species and genomic level. 
 
