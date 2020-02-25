@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
+Download latest CV [here- updated Feb 2020](http://NatyaHans.github.io/files/NatyaHans_CV_2020feb.pdf)
