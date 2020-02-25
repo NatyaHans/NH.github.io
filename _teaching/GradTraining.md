@@ -13,6 +13,6 @@ This is a training course for incoming first year biology graduate students. The
 
 In addition to providing training, there is open discussion on  academic issues such as authorship,plagarism, instigating research collaborations, giving talks at conference, outreach, non academic science careers and reproducibility and open data model.
 
-We also orgnanized a field trip to [Seahorse Key Marine lab](ttps://ncbs.ifas.ufl.edu/seahorse-key-marine-laboratory/)
+We also orgnanized a field trip to [Seahorse Key Marine lab](https://ncbs.ifas.ufl.edu/seahorse-key-marine-laboratory/)
 
 
