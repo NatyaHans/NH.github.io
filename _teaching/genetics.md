@@ -19,11 +19,11 @@ I am currently a teaching assistant for [Dr. Michael M Miyamoto](https://vivo.uf
 
 Spring 2019
 ======
-I was teaching assistant for Dr. Cherie Bond. 
+I was teaching assistant for [Dr. Cherie Bond](https://scholar.google.com/citations?user=bHQjOqIAAAAJ&hl=en) and helped with the grading and in class activities.
 
 Spring 2018
 ======
-I was teaching assistant for Dr. Michelle Yoo. I also gave two guest lectures on the following topics:
+I was teaching assistant for [Dr Mi-Jeong Yoo](https://www.clarkson.edu/people/michelle-yoo) . I also gave two guest lectures on the following topics:
 1. Genomics, Proteomics and Biotechnology.
 2. Evolutionary Biology and Quantitative Genetics.
 
