@@ -7,7 +7,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-* Volunteered as a facilitator for Girls who code UF chapter from August 2019- present. [For more information](https://girlswhocode.com/)
+* Volunteering as a facilitator for Girls who code UF chapter from August 2019- present. [For more information](https://girlswhocode.com/)
 * Served at moderator for lightening talk session at SSB standalone meeting Gainesville, Feb 2-6 2020
 * Served in the organizing committee for SSB standalone meeting in Gainesville, Feb 2-6 2020  [For more information](https://systbiol.github.io/ssb2020/)
 * Serving as Treasurer for SACNAS (Society for Advancement of Chicanos/Hispanics and Native Americans in Science) Florida Chapter,2019-2020
