@@ -1,5 +1,5 @@
 ---
-title: "Cross-Disciplinary Laboratory"
+title: "X lab (Cross-Disciplinary Laboratory)"
 collection: teaching
 type: "HHMI funded undergrad lab"
 permalink: /teaching/xlab
