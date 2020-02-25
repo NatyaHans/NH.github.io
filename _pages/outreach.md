@@ -29,12 +29,12 @@ Professional service
 
 Science fair judging
 ========
-* Science fair judging for local schools: 
+* Served as judge for following local schools: 
     - 12/12/19 - Kanapaha Middle School (Gainesville)
     - 12/13/18 - Westwood Middle School (Gainesville)
     - 11/16/17 - Bishop Middle School (Gainesville) 
     - 12/9/15 - Ft. Clarke Middle School (Gainesville)
 
-* Science fair judge for the Alachua Region Science and Engineering Fair held on 02/08/18 at the Santa Fe College Gymnasium (Gainesville)
+* Served as judge for the Alachua Regional Science and Engineering Fair held on 02/08/18 at the Santa Fe College Gymnasium (Gainesville)
 
 
