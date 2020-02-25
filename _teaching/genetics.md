@@ -10,6 +10,13 @@ location: "Gainesville, Florida"
 
 I have taught the Genetics lecture course(PCB3063) for two semesters.
 
+Spring 2020
+======
+I am currently a teaching assistant for [Dr. Michael M Miyamoto](https://vivo.ufl.edu/display/n13251)
+1. I gave two hour lecture on bacterial and viral recombination and replication
+2. I also taught computer sessions on using various NCBI database such as PubMed, OMIM, MesH, Genbank, Structure, dbSNP,Genetic Testing Registry(GTR),Entrez, GeneReviews, KEGG. I also taught using Cn3D software.
+
+
 Spring 2019
 ======
 I was teaching assistant for Dr. Cherie Bond. 
