@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /outreach/
-title: "Outreach and Service"
+title: " "
 author_profile: true
 
 ---
