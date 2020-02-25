@@ -16,6 +16,16 @@ Outreach
 * Volunteered for two years at United Way of North Central Florida organization, Reading Pals [For more information](http://www.unitedwayncfl.org/readingpals-0) 
 <img src="http://NatyaHans.github.io/images/RPtiffany.jpg" alt="Lab pic" style="width:50%">
 
+Science fair judging
+========
+* Served as judge for following local schools: 
+    - 12/12/19 - Kanapaha Middle School (Gainesville)
+    - 12/13/18 - Westwood Middle School (Gainesville)
+    - 11/16/17 - Bishop Middle School (Gainesville) 
+    - 12/9/15 - Ft. Clarke Middle School (Gainesville)
+
+* Served as judge for the Alachua Regional Science and Engineering Fair held on 02/08/18 at the Santa Fe College Gymnasium (Gainesville)
+
 Professional service
 ========
 * Served at moderator for lightening talk session at SSB standalone meeting Gainesville, Feb 2-6 2020
@@ -27,14 +37,5 @@ Professional service
 * Served as the Graduate Student Council Student Rep for Genetics Institute 2013-2014
 * Organized DNA day (April 2016) at University of Florida Genetics Institute 
 
-Science fair judging
-========
-* Served as judge for following local schools: 
-    - 12/12/19 - Kanapaha Middle School (Gainesville)
-    - 12/13/18 - Westwood Middle School (Gainesville)
-    - 11/16/17 - Bishop Middle School (Gainesville) 
-    - 12/9/15 - Ft. Clarke Middle School (Gainesville)
-
-* Served as judge for the Alachua Regional Science and Engineering Fair held on 02/08/18 at the Santa Fe College Gymnasium (Gainesville)
 
 
