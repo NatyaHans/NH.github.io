@@ -14,7 +14,7 @@ author_profile: true
 * Serving as content developer for biology department newsletter symBIOsis, 2019-2020
 * Serving as Public Relations & Fundraising Rep for Biology Graduate Student Association,2019-2020
 * Served as the IT rep for Biology Graduate Student Association , managing the website, 2018-2019
-* Science fair judging for local schools for  
+* Science fair judging for local schools:  
     - 12/12/19 - Kanapaha Middle School (Gainesville)
     - 12/13/18 - Westwood Middle School (Gainesville)
     - 11/16/17 - Bishop Middle School (Gainesville) 
