@@ -1,7 +1,10 @@
 # main links links
 main:
 
-   - title: "Teaching"
+  - title: "CV"
+    url: /cv/  
+    
+  - title: "Teaching"
     url: /teaching/    
     
  #- title: "Awards"
@@ -19,8 +22,7 @@ main:
   - title: "Tutorials"
     url: /year-archive/
   
-  - title: "CV"
-    url: /cv/   
+
     
   #- title: "Gallery"
   #  url: /gallery/
