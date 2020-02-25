@@ -12,8 +12,10 @@ main:
   
   - title: "Talks"
     url: /talks/      
-    
- # - title: "Publications"
+  
+  - title: "Workshops"
+    url: /workshops/  
+     # - title: "Publications"
  #   url: /publications/
 
   - title: "Outreach"
