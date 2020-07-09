@@ -1,5 +1,5 @@
 ---
-title: ‘Gene discordance analysis using ASTRAL III on HiPerGator'
+title: ‘Gene discordance analysis using ASTRAL on HiPerGator'
 date: 2020-07-09
 permalink: /posts/2019/05/RunningASTRAL/
 tags:
