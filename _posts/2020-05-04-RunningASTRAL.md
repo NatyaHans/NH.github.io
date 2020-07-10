@@ -58,7 +58,8 @@ changes it to the working directory
         echo There are $SLURM_CPUS_ON_NODE cores available.
 prints out the number of cores available
 
-# To allocate memory for ASTRAL: 
+
+To allocate memory for ASTRAL: 
         export _JAVA_OPTIONS="-Xmx300M"
 
 allocates 300 mb memory for the job, if you want to increase the memory replace 300M by 1g ( for 1 gb), and 2 g for 2gb etc..
