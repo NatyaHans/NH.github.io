@@ -12,7 +12,7 @@ tags:
 Really brief background 
 --------
 
-[ASTRAL](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2129-y)is a method used for inferrring species tree from an input of gene trees.
+[ASTRAL](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2129-y) is a method used for inferrring species tree from an input of gene trees.
 The algorithm takes into account discordance among genes, by using dynamic programming. It splits the input gene tree into set of quartets and then searches for a species tree that has maximum number of each of these quartet topologies, assigning support values to each. The algorithm is really fast (takes about 2-4seconds to run) as there are predetermined  partitions instead of searching for new ones. It is statistically consistent under multi-species coalescent. 
 
 ASTRAL III  is the faster version that reduces the run time as compared to the older versions [ASTRAL](https://academic.oup.com/bioinformatics/article/30/17/i541/200803) and [ASTRAL II](https://pubmed.ncbi.nlm.nih.gov/26072508/). 
