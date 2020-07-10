@@ -71,7 +71,6 @@ allocates 300 mb memory for the job, if you want to increase the memory replace 
 
 
  
- 
  For more detailed notes [click](https://github.com/smirarab/ASTRAL/blob/master/README.md)
  
  
