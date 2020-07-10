@@ -65,8 +65,10 @@ The other two lines are described as above
 
       astral -i INPUTGENETREES.tre -o OUTPUTTREE.tre 2>out.log
 
-
- 
+Astral support values
+--------
+For understanding the support values in ASTRAL, click [here](http://eceweb.ucsd.edu/~smirarab/2016/04/15/localpp.html) for a note from one of the developer. 
+  
  For more detailed notes [click](https://github.com/smirarab/ASTRAL/blob/master/README.md)
  
   
