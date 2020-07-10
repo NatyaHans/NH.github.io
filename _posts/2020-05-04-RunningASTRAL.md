@@ -49,25 +49,17 @@ Submitting ASTRAL jobs on Hipergator
 ---------
 Astral is written in java and installed on hipergator so for submitting a job, you have to allocate memory. Here is a sample submission [script](http://NatyaHans.github.io/files/slurm_astral.sh) with the breakdown provided below.
  
-        echo Working directory is $SLURM_SUBMIT_DIR
+`echo Working directory is $SLURM_SUBMIT_DIR` : tells you the path of working directory
 
-tells you the path of working directory
+`cd $SLURM_SUBMIT_DIR`: changes it to the working directory
 
+`echo There are $SLURM_CPUS_ON_NODE cores available.` : prints out the number of cores available
 
-        cd $SLURM_SUBMIT_DIR
+`export _JAVA_OPTIONS="-Xmx300M"` : allocates 300 mb memory for the job.
 
-changes it to the working directory
+If you want to increase the memory replace 300M by 1g ( for 1 gb), and 2 g for 2gb etc..
 
-
-        echo There are $SLURM_CPUS_ON_NODE cores available.
-
-prints out the number of cores available
-
-
-        export _JAVA_OPTIONS="-Xmx300M"
-
-allocates 300 mb memory for the job, if you want to increase the memory replace 300M by 1g ( for 1 gb), and 2 g for 2gb etc..
-
+The other two lines are described as above
 
       module load astral
 
