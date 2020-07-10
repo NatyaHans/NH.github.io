@@ -4,8 +4,9 @@ date: 2020-07-09
 permalink: /posts/2019/05/RunningASTRAL/
 tags:
   - hipergator
-  - bash
-  - aliases
+  - species tree
+  - astral
+  - phylogenetics 
   - linux
 --- 
 
