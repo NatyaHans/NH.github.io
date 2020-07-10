@@ -69,9 +69,14 @@ Astral support values
 --------
 For understanding the support values in ASTRAL, click [here](http://eceweb.ucsd.edu/~smirarab/2016/04/15/localpp.html) for a note from one of the developer. 
   
+Branch lengths
+--------
+Since Astral is a coalescent based method, the branch length on the output species tree are in coalescence units thereby measuring the level of discordance among the gene trees. A ML tree obtained by other methods (such as RAxML) has branch lengths in terms of substitutions per site.
+
+ Multi locus bootstrapping using ASTRAL
+ ---------- 
  For more detailed notes [click](https://github.com/smirarab/ASTRAL/blob/master/README.md)
  
   
- Multi locus bootstrapping using ASTRAL
- ----------
+
 
