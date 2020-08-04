@@ -33,7 +33,7 @@ For PuTTy,
 
 If on Mac, open Terminal window, type
 
-```bash
+```
 ssh USERNAME@hpg.rc.ufl.edu
 ```
 
