@@ -42,7 +42,6 @@ Replace USERNAME with your username. Enter the password when prompted. You shoul
 Logging off from the HiPerGator
 ------
 To log off from the HiPerGator, type in the terminal,
+    
+    exit
 
-```bash
-exit
-```
