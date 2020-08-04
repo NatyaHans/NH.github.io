@@ -33,7 +33,9 @@ For PuTTy,
 
 If on Mac, open Terminal window, type
 
-     ssh USERNAME@hpg.rc.ufl.edu
+```{r, engine='bash', eval=FALSE}    
+ssh USERNAME@hpg.rc.ufl.edu
+```
 
 Replace USERNAME with your username. Enter the password when prompted. You should be connected to the HiPerGator.
 
