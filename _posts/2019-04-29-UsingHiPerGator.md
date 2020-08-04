@@ -8,39 +8,6 @@ tags:
   - linux
   - windows
 ---
-<style type="text/css">
-
-body{ /* Normal  */
-      font-size: 12px;
-  }
-td {  /* Table  */
-  font-size: 8px;
-}
-h1.title {
-  font-size: 38px;
-  color: DarkRed;
-}
-h1 { /* Header 1 */
-  font-size: 28px;
-  color: DarkBlue;
-}
-h2 { /* Header 2 */
-    font-size: 22px;
-  color: DarkBlue;
-}
-h3 { /* Header 3 */
-  font-size: 20px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkBlue;
-}
-code.r{ /* Code block */
-    font-size: 20px;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 20px;
-}
-</style>
-
 
 If this is your first time using the cluster, I would advice to learn some basic bash scripting. Navigating your way through different directories and cluster would be a lot easier with basic bash commands such as
 pwd,cd, mkdir, ls ( **Note to self**: Make a post about it) 
