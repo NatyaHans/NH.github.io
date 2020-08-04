@@ -34,7 +34,7 @@ h3 { /* Header 3 */
   color: DarkBlue;
 }
 code.r{ /* Code block */
-    font-size: 12px;
+    font-size: 18px;
 }
 pre { /* Code block - determines code spacing between lines */
     font-size: 14px;
