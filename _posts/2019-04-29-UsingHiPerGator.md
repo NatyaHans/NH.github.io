@@ -33,7 +33,7 @@ For PuTTy,
 
 If on Mac, open Terminal window, type
 
-```bash
+```console
 ssh USERNAME@hpg.rc.ufl.edu
 ```
 
@@ -42,6 +42,7 @@ Replace USERNAME with your username. Enter the password when prompted. You shoul
 Logging off from the HiPerGator
 ------
 To log off from the HiPerGator, type in the terminal,
-    
-    exit
-
+   
+```console
+exit
+```
