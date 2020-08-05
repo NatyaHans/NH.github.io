@@ -28,7 +28,8 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: .8125em; /*changed NH Aug2020 was $type-size-7 */
+    font-size: $type-size-5 ;
+    /*font-size: .8125em;*/ /*changed NH Aug2020 was $type-size-7 */
     line-height: 1.8;
   }
 }
