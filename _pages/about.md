@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi!
 
-I am a PhD candidate in Biology Department at University of Florida. I am a computational evolutionary biologist in [Dr. Gordon Burleigh](https://biology.ufl.edu/gburleigh/)'s lab.
+I am a PhD candidate in Biology Department at University of Florida. I am a computational evolutionary biologist in [Dr. Gordon Burleigh](https://biology.ufl.edu/gburleigh/) 's lab.
 
 <img src="http://NatyaHans.github.io/images/Monopoly.jpg" alt="Lab pic" style="width:60%">
 
