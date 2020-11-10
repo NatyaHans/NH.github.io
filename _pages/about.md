@@ -20,8 +20,9 @@ Recent News
 -----------
 ### October 2020
 SACNAS UF chapter was awarded the Role model award for outstanding fundraising at the virtual National SACNAS conference 2020. I , along with two other graduate students, Sarah Kurtis and Alexandra Hernandez was invited to present a talk on best fundraising practices at the virtual national sacnas conference.
+
 <img src="http://NatyaHans.github.io/images/rolemodelaward.jpg" alt="Award" style="width:30%">
-<img src="http://NatyaHans.github.io/images/FirstSlide.png" alt="Slide" style="width:40%">
+<img src="http://NatyaHans.github.io/images/FirstSlide.png" alt="Slide" style="width:50%">
 
 ### February 2020
 I am a student board member at SACNAS UF Chapter, and we organized the first south east SACNAS regional meeting from Feb 28th to Feb 29th 2020. [Click here for the website](https://sacnasflconference.wixsite.com/website)
