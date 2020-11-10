@@ -65,7 +65,7 @@ $my-gray                    : #808080;
 /*#ecebeb*/
 $body-color                 : #000; /*original #fff NH2020*/
 $background-color           : #000; /*original #fff NH2020*/
-$code-background-color      : #fafafa;
+$code-background-color      : $dark-gray /*original #fafafa NH2020*/
 $code-background-color-dark : $slight-lighter-gray; /*original $light-gray NH2020*/
 $text-color                 : $white; /*original $dark-gray NH2020*/
 $border-color               : $lighter-gray; /*original $lighter-gray NH2020*/
@@ -74,7 +74,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-/* $info-color                 : #52adc8;*/ /*original*/
+/* $info-color                 : #52adc8;*/ /*original NH2020*/
 /*$info-color                 : #1d90b2;*/
 $info-color                 : #5A62A1;
 
