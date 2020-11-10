@@ -51,15 +51,16 @@ $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
+$slight-lighter-gray        : mix(#fff, $gray, 70%); /*added NH*/
 $lighter-gray               : mix(#fff, $gray, 90%);
-$slight-lighter-gray        : mix(#fff, $gray, 80%);
+
 
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
-$code-background-color-dark : $lighter-gray; /*original $light-gray*/
+$code-background-color-dark : $slight-lighter-gray; /*original $light-gray*/
 $text-color                 : $dark-gray;
-$border-color               : $light-gray; /*original $lighter-gray*/
+$border-color               : $lighter-gray; /*original $lighter-gray*/
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
