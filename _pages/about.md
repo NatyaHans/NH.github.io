@@ -15,15 +15,6 @@ I am a PhD candidate in Biology Department at University of Florida. I am a comp
 
 My research involves developing statistical approaches and computational methods to understand the generation and maintenance of biological diversity, and studying evolutionary patterns of diversification at both the species and genomic level. I am interested in developing tools for phylogenetic comparitive methods. 
 
-Research
------------
-### Accessing identifiability in diversification models 
-
-### Including hidden states in models linking sequence and trait evolution
-
-### Automating the pipeline for adding more data to build phylogenies 
-
-### 
 
 
 Recent News
