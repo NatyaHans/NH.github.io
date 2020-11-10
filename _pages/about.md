@@ -15,6 +15,16 @@ I am a PhD candidate in Biology Department at University of Florida. I am a comp
 
 My research involves developing statistical approaches and computational methods to understand the generation and maintenance of biological diversity, and studying evolutionary patterns of diversification at both the species and genomic level. I am interested in developing tools for phylogenetic comparitive methods. 
 
+Research
+-----------
+### Accessing identifiability in diversification models 
+
+### Including hidden states in models linking sequence and trait evolution
+
+### Automating the pipeline for adding more data to build phylogenies 
+
+### 
+
 
 Recent News
 -----------
@@ -27,3 +37,10 @@ SACNAS UF chapter was awarded the Role model award for outstanding fundraising a
 ### February 2020
 I am a student board member at SACNAS UF Chapter, and we organized the first south east SACNAS regional meeting from Feb 28th to Feb 29th 2020. [Click here for the website](https://sacnasflconference.wixsite.com/website)
 <img src="http://NatyaHans.github.io/images/SESACNASorganizers.jpg" alt="Organizers pic" style="width:50%">
+
+### About this website
+Powered by [Jekyll](http://jekyllrb.com). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/). Hosted on [GitHub Pages](https://pages.github.com/).
+
+
+
+
