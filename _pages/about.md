@@ -25,4 +25,4 @@ SACNAS UF chapter was awarded the Role model award for outstanding fundraising a
 
 #### February 2020
 I am a student board member at SACNAS UF Chapter, and we organized the first south east SACNAS regional meeting from Feb 28th to Feb 29th 2020. [Click here for the website](https://sacnasflconference.wixsite.com/website)
-<img src="http://NatyaHans.github.io/images/SESACNASorganizers.jpg" alt="Organizers pic" style="width:40%">
+<img src="http://NatyaHans.github.io/images/SESACNASorganizers.jpg" alt="Organizers pic" style="width:50%">
