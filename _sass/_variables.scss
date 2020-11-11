@@ -50,6 +50,7 @@ $type-size-8                : 0.625em;  // ~10px
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
+$darkest-gray               : mix(#000, $gray, 90%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $slight-lighter-gray        : mix(#fff, $gray, 70%); /*added NH 2020*/
 $lighter-gray               : mix(#fff, $gray, 90%);
